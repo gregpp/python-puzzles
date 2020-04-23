@@ -3,6 +3,7 @@
 Created on Thu Apr  2 13:17:35 2020
 
 @author: GP
+This script find the elements which occur exactly once in the input list
 """
 
 def find_unique_numbers(numbers):
@@ -24,5 +25,3 @@ def find_unique_numbers(numbers):
     return l
 
 print (find_unique_numbers([1,2,3,4,5,5]))
-#print (getSingle([1,2,2,1,3,3]))
-
