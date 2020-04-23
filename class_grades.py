@@ -3,6 +3,8 @@
 Created on Thu Apr  2 13:53:31 2020
 
 @author: GP
+This computes median for each class where students are stored in a two dimensional list where each element
+of the list is another list with student name, class name, student grade.
 """
 import statistics
 
