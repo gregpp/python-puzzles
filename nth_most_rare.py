@@ -3,6 +3,7 @@
 Created on Thu Apr  2 12:34:09 2020
 
 @author: GP
+This script finds the n-th most rare element in the input list
 """
 
 
